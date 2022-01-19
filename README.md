@@ -6,7 +6,6 @@
 #### What is it?
 This program uses messages from twitch chat to play chess
 #### How to use it?
-This program was designed for Chess.com on full screen in a 1920*1080 resolution
 Change the credentials oauthKey, nickname and channelName to your own credentials.
 
 ![image](https://user-images.githubusercontent.com/81842396/113790864-f5d6ea80-9707-11eb-9327-aad101fda79a.png)
